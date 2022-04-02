@@ -36,3 +36,33 @@ npx prettier --write .
 - Join our [Discord](https://discord.bomb.money) community
 - Or if you are more of a [Telegram Zombie](https://t.me/bombmoneybsc) we have that too
 - Bugs? Use the [Issues](https://github.com/bombmoney/bomb-frontend/issues) section of our github to report them
+
+### To-DOs
+- Finance Summary
+    - [ ] Live TWAP
+    - [ ] TVL
+    - [ ] Last Epoch TWAP
+
+    - [ ] APR value for all the Bombs/BShares
+
+- Boardroom
+    - (Doubt) Is total staked and your staked value the same?
+    - [ ] Deposit Button
+    - [ ] Withdraw Button
+    - [ ] Claim Rewards Button
+    - [ ] Link to Discord, Docs, Invest Now and Invertment Stratergy
+
+- Bomb Farms
+    - BOMB_BTCB
+        - [ ] Deposit Button
+        - [ ] Withdraw Button
+        - [ ] Claim Rewards Button
+    - BSHARE_BNB
+        - [ ] Deposit Button
+        - [ ] Withdraw Button
+        - [ ] Claim Rewards Button
+
+- Bonds
+    - All done
+
+- (If time permits) Fix UI
