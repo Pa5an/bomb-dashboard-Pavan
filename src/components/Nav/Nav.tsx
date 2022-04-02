@@ -127,6 +127,9 @@ const Nav = () => {
               <Link to="/" className={'navLink ' + classes.link}>
                 Home
               </Link>
+              <Link to="/dashboard" className={'navLink ' + classes.link}>
+                Dashboard
+              </Link>
               <Link to="/farm" className={'navLink ' + classes.link}>
                 Farm
               </Link>
@@ -262,6 +265,7 @@ const Nav = () => {
                   <AccountButton text="Connect" />
                 </ListItem>
                 <ListItemLink primary="Home" to="/" />
+                <ListItemLink primary="Dashboard" to="/dashboard" />
                 <ListItemLink primary="Farm" to="/farm" />
                 <ListItemLink primary="xBOMB" to="/xbomb" />
                 <ListItemLink primary="Boardroom" to="/boardroom" />
