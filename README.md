@@ -66,3 +66,5 @@ npx prettier --write .
     - All done
 
 - (If time permits) Fix UI
+
+- Also, why the heck is `.yarn` commited in the original repo.
